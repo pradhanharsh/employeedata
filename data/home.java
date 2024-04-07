@@ -1,3 +1,5 @@
 public class home {
-    hgjgjj
+   constractor(){
+    
+   }
 }
